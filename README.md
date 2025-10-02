@@ -8,10 +8,11 @@ Optimized kernel for running Kali Nethunter on Redmi 5A. High performance, enhan
 1. Ensure that your Redmi 5A bootloader is unlocked.
 
 2. If you have Oreo Redmi 5A (MIUI 11+), you must downgrade to Nougat (V10.1.1.0). Download the Nougat image from [xiaomirom.com](https://xiaomirom.com/en/download/redmi-5a-riva-stable-V10.1.1.0.NCKMIFI/) (Choose the fastboot version).
+   don't forget to rename the downloaded file to .tgz
 
-3. Install ADB tools from [forum.xda-developers.com](https://forum.xda-developers.com/attachments/adb-setup-1-4-3-zip.4623157/).
+4. Install ADB tools from [forum.xda-developers.com](https://forum.xda-developers.com/attachments/adb-setup-1-4-3-zip.4623157/).
 
-4. Download the official Xiaomi Flash Tool from [xiaomiflashtool.com](https://xiaomiflashtool.com/).
+5. Download the official Xiaomi Flash Tool from [xiaomiflashtool.com](https://xiaomiflashtool.com/).
 
 ### Installation Steps:
 
