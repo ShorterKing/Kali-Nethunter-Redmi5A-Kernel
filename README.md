@@ -48,3 +48,10 @@ Optimized kernel for running Kali Nethunter on Redmi 5A. High performance, enhan
 
 16. Congratulations! You have successfully installed Nethunter on your Redmi 5A!
 
+
+
+# ⚠️ THIS KERNEL IS BROKEN  
+**Please do NOT use this version.**  
+
+✅ The latest working kernel is here:  
+👉 [Nethunter-Kernel-Redmi5A-Riva](https://github.com/ShorterKing/Nethunter-Kernel-Redmi5A-Riva)
